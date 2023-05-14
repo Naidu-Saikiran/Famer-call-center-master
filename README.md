@@ -60,6 +60,6 @@ $ npm start
 
 | S.No. | Name | Role | GitHub Username:octocat: |
 | --------------- | --------------- | --------------- | --------------- |
-| 1. | Sai Kiran Naidu (Team Leader) | Frontend Development| [@Saikirannaidu225](https://github.com/Saikirannaidu225)  |
+| 1. | Sai Kiran Naidu (Team Leader) | Frontend Development and backend| [@Saikirannaidu225](https://github.com/Saikirannaidu225)  |
 | 2. | Satish Varada| Frontend Development | |
 | 3. | Srinivas Vemula| Frontend Development |  |
