@@ -1,7 +1,7 @@
-# Krashak.AI
+# FarmAssist.AI
 
 
-> Problem Statement (AGRI12)
+> Problem Statement
 
 
 AI-based voice-assisted Contact Center for assisting Farmers for their problems. Farmers can log their problems with the contact center thru phone calls / SMS / website and in return an automated voice response can be provided to the farmers with a most appropriate solution for their problems.
